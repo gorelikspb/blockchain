@@ -26,3 +26,6 @@ http://localhost:5000/transactions/new (в теле запроса нужно у
 http://localhost:5000/chain
 
 ![image](https://user-images.githubusercontent.com/66779925/158570738-bf383b02-ce8e-40ac-bf3d-dbd9ad02c19d.png)
+
+
+В ближайших планах - реализаовать децентрализацию блокчейна.
