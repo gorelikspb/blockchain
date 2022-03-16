@@ -149,6 +149,7 @@ def mine():
 @app.route('/transactions/new', methods=['POST'])
 def new_transaction():
     values = request.get_json()
+    print (values)
 
     # Убедитесь в том, что необходимые поля находятся среди POST-данных 
     required = ['sender', 'recipient', 'amount']
